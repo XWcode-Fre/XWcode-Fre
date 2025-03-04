@@ -7,4 +7,4 @@
 - ⚡ Fun fact: i'm a learning Kotlin for fun
 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XWcode-FRE)](https://github.com/anuraghazra/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XWcode-Fre)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XWcode-Fre&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
